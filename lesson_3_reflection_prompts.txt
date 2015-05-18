@@ -7,3 +7,10 @@ Why might you want to always pull changes manually rather than having Git automa
 
 	This makes the user aware of any and all changes that will be overwriting into the remote
 	repository.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+	Forks are used when you want to make changes to a repository you don't have permission to
+	change. Clones are used when you want to make an exact copy of a repository from a remote
+	to online or vice versa. Branches are when you want to make alternate changes and develop
+	paralle to the master.
